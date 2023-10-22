@@ -183,7 +183,7 @@ video {
   height: 100vh;
   z-index: 0;
   top: 0;
-  background-color: black;
+  background-color: #4d4848;
   opacity: 0.7;
 }
 header {
